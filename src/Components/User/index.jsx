@@ -33,7 +33,7 @@ function IndexUser() {
     const fieldValue = e.target.value;
 
     const newFormData = { ...addFormData };
-
+    newFormData[fieldName] = fieldValue;
     setAddFormData(newFormData);
   };
 
