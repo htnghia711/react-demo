@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "fullName": "Lý Văn A",
+      "address": "Lý Thái Tổ",
+      "phoneNumber": "123456789",
+      "email": "A-ThaiTo@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Lý Văn B",
+      "address": "Lý Thái Tổ",
+      "phoneNumber": "123456789",
+      "email": "B-ThaiTo@gmail.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Lý Văn C",
+      "address": "Lý Thái Tổ",
+      "phoneNumber": "123456789",
+      "email": "C-ThaiTo@gmail.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Lý Văn D",
+      "address": "Lý Thái Tổ",
+      "phoneNumber": "123456789",
+      "email": "D-ThaiTo@gmail.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Lý Văn E",
+      "address": "Lý Thái Tổ",
+      "phoneNumber": "123456789",
+      "email": "E-ThaiTo@gmail.com"
+    },
+    {
+      "id": 6,
+      "fullName": "Lý Văn F",
+      "address": "Lý Thái Tổ",
+      "phoneNumber": "123456789",
+      "email": "F-ThaiTo@gmail.com"
+    }
+]
